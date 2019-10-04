@@ -1,0 +1,7 @@
+
+
+	*******TICKET******
+
+
+***** Producto ******* Precio ******* Cantidad ******
+camisa                20.21           2

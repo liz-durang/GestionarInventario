@@ -1,0 +1,9 @@
+
+
+		*******INVENTARIO******
+
+
+***** Nombre********* Precio Compra ******* Precio Venta ******* Stock 
+            lata               14.23                20.21                2
+            camisa               14.23                20.21                3
+            cama               14.23                20.21                3
